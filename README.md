@@ -92,6 +92,6 @@
  Any issues will be fixed in upcoming `version 2.0`
 
 -----
-# MIT LICENSE
+# GLP-3.0 LICENSE
 
-`MIT LICENSE` (c) 2024 `tkemza`
+`GLP-3.0 LICENSE` (c) 2024 `tkemza`

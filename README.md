@@ -77,11 +77,11 @@
 -----
 # PREVIEW
 
-![umbrelastart](.pic/umbrelastart.png)
+![umbrelastart](/.pic/umbrelastart.png)
 
-![umbrelamenu](.pic/umbrelamenu.png)
+![umbrelamenu](/.pic/umbrelamenu.png)
 
-![umbrelaabout](.pic/umbrelaabout.png)
+![umbrelaabout](/.pic/umbrelaabout.png)
 
 # REPORT A BUG
 

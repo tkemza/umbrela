@@ -8,7 +8,6 @@
 
 #   MIT LICENSE :       (C) 2024 tkemza 
 
-#   About Tool  :       Made for new Linux users for easier usage and downloading pkgs > More about > README.md
 
 function reset_color() {
     # Reset color 

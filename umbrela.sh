@@ -8,7 +8,6 @@
 
 #   MIT LICENSE :       (C) 2024 tkemza 
 
-
 function reset_color() {
     # Reset color 
 	tput sgr0   # reset attributes

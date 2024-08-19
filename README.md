@@ -62,7 +62,7 @@
  Review Logs: Check the comprehensive logs to understand the actions taken and any issues encountered.
  Umbrela is your go-to solution for efficient system security and file management. With its user-centric design and powerful capabilities, it ensures that maintaining a secure and organized Linux environment has never been easier.
 
- For more information and to download `Umbrela v1.0`, visit [https://github.com/tkemza/umbrela/releases].
+ For more information and to download `Umbrela v1.0`, visit https://github.com/tkemza/umbrela/releases.
 
 -----
 # REQUIREMENTS

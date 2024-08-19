@@ -1,5 +1,6 @@
-<img align="center" src="pics/umbrella.png">
-
+<p align="center">
+  <img src="pics/umbrella.png">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/tkemza/umbrela?style=for-the-badge">

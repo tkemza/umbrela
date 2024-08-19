@@ -15,7 +15,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkemza%2Fumbrela&title=Visitors&edge_flat=false"/></a>
 </p>
 
-<p align="center"><b>Web status fast checker.</b></p>
+<p align="center"><b>Fast and practical security antivirus tool used for security and scanning</b></p>
 
 
 # UMBRELA 1.0
